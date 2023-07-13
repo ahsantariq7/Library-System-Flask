@@ -10,4 +10,8 @@
 - GitIgnore 
 - Docker 
 - Docker_Compose 
-- Docker Ig
+- Docker
+- MarshMallow 
+- Model Inheritance 
+- dotenv 
+- Pipenv 
